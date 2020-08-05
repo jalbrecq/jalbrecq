@@ -6,13 +6,13 @@
 - 🔭 I’m currently working on a basic graphQL list app
 - 🌱 I’m currently learning bootstrap 
 but also graphQL, React, Vue, Python, Machin Learning, nodejs, deno, ...
--  🥅 my 2020 goal is get my data sciences master degree
+-  🥅 my 2020-2021 goal is get my data sciences master degree
  
 
 ## 📫 Contact me
 
 - jeanalbrecq@gmail.com
-- [my stackouverflow account <img align="left" alt="StackOverFlow" width="26px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0?e=2159024400&v=beta&t=QSsO8pMX4WN0gay0nNQ4QgEWYjh4gUvNKZh_GR5IwbA" />][StackOverFlow] 
+- [my stackouverflow account<img align="left" alt="StackOverFlow" width="26px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0?e=2159024400&v=beta&t=QSsO8pMX4WN0gay0nNQ4QgEWYjh4gUvNKZh_GR5IwbA" />][StackOverFlow] 
 
 ## My langage and tools
 
