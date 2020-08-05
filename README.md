@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Jean Albrecq - aka Haraesis, jalbrecq
+# Hi there 👋 I'm Jean Albrecq - aka jalbrecq
 ## *Welcome on my personal README*
 
 - 👨‍💻 I have 23 years old, I live in belgium 🇧🇪
