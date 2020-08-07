@@ -8,7 +8,7 @@
 but also graphQL, React, Vue, Python, Machin Learning, nodejs, deno, ...
 -  🥅 my 2020-2021 goal is get my data sciences master degree
  
-## Web app *build with my little hand*
+## Web app *build with my little hand 🙌*
 
 - 🚲 [My bike list app](https://the-bike-list.herokuapp.com)
 
@@ -17,7 +17,7 @@ but also graphQL, React, Vue, Python, Machin Learning, nodejs, deno, ...
 - jeanalbrecq@gmail.com
 - [my stackouverflow account<img align="left" alt="StackOverFlow" width="26px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEooBvMO2kBVg/company-logo_200_200/0?e=2159024400&v=beta&t=QSsO8pMX4WN0gay0nNQ4QgEWYjh4gUvNKZh_GR5IwbA" />][StackOverFlow] 
 
-## My langage and tools
+## My langage and tools 🛠
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
