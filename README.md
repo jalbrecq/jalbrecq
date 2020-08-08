@@ -8,7 +8,7 @@
 but also graphQL, React, Vue, Python, Machin Learning, nodejs, deno, ...
 -  🥅 my 2020-2021 goal is get my data sciences master degree
  
-## Web app *build with my little hand 🙌*
+## Web app *build with my little hands 🙌*
 
 - 🚲 [My bike list app](https://the-bike-list.herokuapp.com)
 
