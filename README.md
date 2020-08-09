@@ -4,13 +4,14 @@
 - 👨‍💻 I have 23 years old, I live in belgium 🇧🇪
 - 👨‍🎓 I'm a student at Unamur in data sciences
 - 🔭 I’m currently working on a basic graphQL list app
-- 🌱 I’m currently learning bootstrap 
-but also graphQL, React, Vue, Python, Machin Learning, nodejs, deno, ...
--  🥅 my 2020-2021 goal is get my data sciences master degree
+- 🌱 I’m currently learning opencv 
+but also graphQL, Reactjs, Vuejs, nodejs, deno, bootstrap, apollo, mongoDB, ...
+-  🥅 my 2020-2021 goal is simply *get my data sciences master degree*
  
 ## Web app *build with my little hands 🙌*
 
 - 🚲 [My bike list app](https://the-bike-list.herokuapp.com)
+- 🧐 [My first (good) bootstrap website](https://jalbrecq.github.io/bootstrap4/)
 
 ## 📫 Contact me
 
