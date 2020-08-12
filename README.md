@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on a basic graphQL list app
 - 🌱 I’m currently learning machine learning 🤖 
 but also graphQL, Reactjs, Vuejs, nodejs, deno, bootstrap, apollo, mongoDB, ...
+- 📚 I'm currently reading "Hands on machine learning"
 -  🥅 my 2020-2021 goal is simply *get my data sciences master degree*
  
 ## Web app *build with my little hands 🙌*
