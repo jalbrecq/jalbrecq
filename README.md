@@ -57,6 +57,8 @@ but also graphQL, Reactjs, Vuejs, nodejs, deno, bootstrap, apollo, mongoDB, ...
 
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
+<img align="left" alt="Prisma" width="26px" src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" />
+
 <!-- 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=jalbrecq)](https://github.com/anuraghazra/github-readme-stats)
 -->
