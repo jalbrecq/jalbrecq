@@ -6,13 +6,14 @@
 - 🔭 I’m currently working on a next website
 - 🌱 I’m currently learning machine learning 🤖 
 but also Nextjs, Vuejs, Nodejs, Deno, Bootstrap, mongoDB, ...
-- 📚 I'm currently reading "Hands on machine learning"
--  🥅 my 2020-2021 goal is simply *get my data sciences master degree*
+- 📚 I'm currently reading "Data Warehouse Systems: Design and Implementation"
+- 🥅 my 2020-2021 goal is simply *get my data sciences master degree*
  
 ## Web app *build with my little hands 🙌*
 
 - 🚲 [My bike list app](https://the-bike-list.herokuapp.com)
 - 🧐 [My first (good) bootstrap website](https://jalbrecq.github.io/bootstrap4/)
+- 🎓 [Akap website](http://www.akap-namur.be/)
 
 ## 📫 Contact me
 
