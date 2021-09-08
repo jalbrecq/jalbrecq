@@ -11,7 +11,7 @@ but also Nextjs, Vuejs, Nodejs, Deno, Bootstrap, mongoDB, ...
  
 ## Web app *build with my little hands 🙌*
 
-- 🚲 [My bike list app](https://the-bike-list.herokuapp.com)
+- 🚲 [My bike list app](https://github.com/jalbrecq/GraphQL-API)
 - 🧐 [My first (good) bootstrap website](https://jalbrecq.github.io/bootstrap4/)
 - 🎓 [Akap website](http://www.akap-namur.be/)
 
