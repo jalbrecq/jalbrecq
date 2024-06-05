@@ -1,19 +1,10 @@
 # Hi there 👋 I'm Jean Albrecq - aka jalbrecq
 ## *Welcome on my personal README*
 
-- 👨‍💻 I have 23 years old, I live in belgium 🇧🇪
-- 👨‍🎓 I'm a student at Unamur in data sciences
-- 🔭 I’m currently working on a next website
-- 🌱 I’m currently learning machine learning 🤖 
-but also Nextjs, Vuejs, Nodejs, Deno, Bootstrap, mongoDB, ...
+- 🇧🇪 I live in belgium 
+- 👨‍🎓 I'm a Phd student in data sciences at Unamur
+- 🌱 I’m currently learning machine learning 🤖
 - 📚 I'm currently reading "Data Warehouse Systems: Design and Implementation"
-- 🥅 my 2020-2021 goal is simply *get my data sciences master degree*
- 
-## Web app *build with my little hands 🙌*
-
-- 🚲 [My bike list app](https://github.com/jalbrecq/GraphQL-API)
-- 🧐 [My first (good) bootstrap website](https://jalbrecq.github.io/bootstrap4/)
-- 🎓 [Akap website](http://www.akap-namur.be/)
 
 ## 📫 Contact me
 
